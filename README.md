@@ -33,26 +33,8 @@ Ce projet a été réalisé dans le cadre du **Projet de Fin d’Année (2024-20
 
 ---
 
-## 📂 Structure du dépôt
-\`\`\`
-├── backend/
-│   ├── server.py           # Entrée FastAPI
-│   ├── analysis_app/       # Module d’analyse et visualisation
-│   ├── chatbot_app/        # Module chatbot (RAG)
-│   └── processing.py       # Pipeline de nettoyage des données
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx         # Navigation React Router
-│   │   ├── pages/          # Pages : Dashboard, Chatbot
-│   │   └── components/     # Composants UI
-│   ├── public/
-│   └── package.json
-├── data/
-│   └── sample_dataset.csv  # Exemple de dataset
-├── README.md
-\`\`\`
 
----
+
 ## 🚀 Installation & Lancement
 ### 🔧 Prérequis
 - Python 3.10+
@@ -106,5 +88,5 @@ npm run dev
 
 ## 👩‍💻 Auteur
 Projet réalisé par **EL ALAMI Nihad**
-- **Filière :** Big Data & Intelligence Artificielle, ENSA Tétouan
+- **Filière :** science des données, Big Data & Intelligence Artificielle, ENSA Tétouan
 - **Année :** 2024 – 2025
