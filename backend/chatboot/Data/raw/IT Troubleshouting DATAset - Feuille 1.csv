@@ -1,0 +1,264 @@
+problems ,solutions 
+Forgotten Password,"Go to the “Forgot Password” or “Reset Password” link on the login page.
+
+Enter your registered email address or username.
+
+Check your email inbox for a password reset link (don’t forget to check your spam/junk folder).
+
+Click the link and follow the instructions to create a new password. Make sure it’s strong and meets the system requirements.
+
+Once done, try logging in with your new password.
+
+If you don’t receive the reset email, double-check the email address you entered. If security questions are used, make sure to answer them correctly."
+Account Locked,"First, we need to verify your identity. This can be done through a phone call, email, or by answering your pre-configured security questions.
+
+Once verified, if your account is locked out, we can reset your password. Make sure to create a strong and unique password for future use.
+
+If there are signs of unauthorized access attempts, we’ll reset your password for security and recommend enabling two-factor authentication to protect your account.
+
+For troubleshooting, IT may check system logs, event viewers, or diagnostic tools to identify any errors caused by the system, software, or user actions."
+Lost Login Credentials,Start by attempting username recovery. Many systems allow retrieving usernames through email addresses associated with the account
+Software Won’t Run,"Check for software compatibility with the operating system and hardware. Some software might require specific system configurations to run properly.
+Reinstall the program. This can often fix corrupted files or missing program components necessary for launch.
+If reinstalling doesn’t work, troubleshoot further by checking for conflicting applications that might interfere with the program’s launch process. Disabling or removing conflicting software might be necessary to resolve computer help issues. Additionally, be aware that installing a device driver can sometimes cause system instability, so ensure that the driver is compatible and up-to-date to prevent it help desk problems and solutions."
+Application Errors,"    Restart the application. Often, a simple restart can resolve temporary glitches or memory issues.
+    Update the software. Developers frequently release updates to fix bugs, improve performance, 
+    Check for conflicting applications."
+Missing Features,"Verify the software edition. and Ensure the user has the edition with the desired features.
+Reinstall the program with the correct feature selection"
+Computer Won’t Turn On,"Check power connections. Ensure the power cable is securely plugged into both the wall outlet and the computer. Verify that the wall outlet is functional by testing with another electronic device.
+Look for signs of life. Listen for any fan noises or observe for blinking lights on the computer chassis, which might indicate a partial power supply. .
+Try a different power outlet. 
+If none of the above solutions work, the issue might be with internal hardware components like the power supply unit or motherboard. "
+Slow Computer Performance,"Free up disk space. Delete unnecessary files, uninstall unused programs, and utilize disk cleanup tools to remove temporary files and system clutter.
+Close unnecessary programs. which is one of the most common troubleshooting problems. Close any programs that are not actively in use.
+Check for malware. Malicious software can significantly slow down a computer. Run antivirus and anti-malware scans to identify and remove any threats.
+Consider hardware upgrades (if applicable)."
+Overheating,"Ensure proper ventilation, as this is one of the most common tech support issues. .
+Clean up dust buildup, one of the most common tech support issues. Dust buildup can act as an insulator, trapping heat and moisture inside the computer. Use compressed air to carefully clean dust from vents and internal components. (Caution: Turn off and unplug the computer before cleaning.)
+Replace failing fans."
+Unrecognized USB Device,"    Restart the computer. 
+    Try a different USB port. Not all USB ports provide the same level of power or bandwidth. Test the device in a different USB port on the computer.
+    Update drivers. Outdated USB drivers can lead to compatibility issues. Update the USB drivers on your computer to ensure proper device recognition.
+    Check the USB on another PC, it’s possible that the USB itself may be faulty"
+Printer Not Working,"    Verify connection. Ensure the printer cable is securely plugged into both the computer and the printer. If wireless, double-check the Wi-Fi connection on both devices.
+    Check for paper jams.  open the printer and remove any jammed paper carefully, and according to manufacturer guidance.
+    Reinstall printer drivers.Reinstall the drivers specifically designed for your printer model and operating system.
+    Troubleshoot network connectivity (for wireless printers). Ensure both devices are connected to the same Wi-Fi network and troubleshoot any network problems if necessary, as these are common IT support technical issues that can affect performance."
+Slow Internet Connection,"Restart PC and then run a speed test to verify the correct speed as mentioned in your service plan
+Restart the router and modem. 
+Check for signal strength (Wi-Fi). The distance from the wireless router and potential interference from other devices can affect Wi-Fi signal strength. Move closer to the router or consider using a wired Ethernet connection for a more stable connection.
+Troubleshoot cable connections. Loose or damaged cables can cause connectivity issues. Ensure all network cables are securely plugged into the router, modem, and wall outlet.
+Contact your internet service provider (ISP). If none of the above solutions work, the issue might be related to your internet service plan or problems with your ISP’s network. "
+Lost Wi-Fi Connection,"    Restart PC as a first step.
+    Make your operating system “forget” and reconnect to the Wi-Fi network. 
+    Check router settings. Verify that the Wi-Fi network is broadcasting properly and that the correct security settings are configured.
+    Restart the router."
+Unable to access network resources,"Restart PC as a first step.
+Verify network credentials. Ensure users have the correct username and password to access network resources.
+Check firewall settings. Firewalls can sometimes block access to network resources. Consult with network administrators to verify firewall configurations and allow access if necessary.
+Consult network administrators for common service desk issues. Network access controls and permissions might be configured to restrict access for certain users or user groups. Network administrators can help diagnose these issues and grant access if appropriate"
+Accidental file deletion,"Recover files from the recycle bin. Most operating systems have a recycle bin, or trash, that stores deleted files for a certain period of time. Check the recycle bin to see if the deleted file can be restored.
+Its strong advisable to install a proper backup solution to protect from accidental deletion, contact ITAdOn if you need any recommendation or assistance with Backup Solution 
+Recover from backup storage (always have backups!). If a backup system is in place, data recovery might be possible, depending on the integrity of the backup"
+Unsaved Work,Check for autosave functionality within the program or designated folders
+Pop-ups and Spam,Use reliable anti-malware software
+Suspected Virus Infection,"Run a full scan with your updated antivirus software.
+
+Make sure your antivirus is up-to-date to catch the latest threats.
+
+If problems persist, you might consider a system restore to a point before the infection"
+Unauthorized Access Attempts,"Reset your passwords – Immediately change passwords for any potentially affected accounts. Use strong, unique passwords for each one.
+
+Enable two-factor authentication (2FA) – This adds an extra layer of security by requiring a verification code along with your password"
+External Monitor Not Detected,"Check connections – Make sure the video cable (HDMI, DVI, VGA) is securely connected to both your computer and the monitor. Try a different cable if needed.
+
+Update display drivers – Outdated graphics drivers can cause detection problems. Update your display drivers to ensure your monitor is recognized properly."
+Microphone or Webcam Not Working,"Check connections – Make sure your device is properly plugged in or connected. For USB devices, try a different port.
+
+Verify settings – Ensure the microphone or webcam is selected as the default device in your system settings and not muted or disabled.
+
+Update drivers – Outdated drivers can cause issues. Update your audio or camera drivers to the latest version.
+
+Test the device – Use a test application to confirm it’s working properly."
+Software Updates Failing,"
+Check your internet connection – Ensure you have a stable connection for downloading and installing updates.
+
+Free up disk space – Some updates need extra space for temporary files. Delete unnecessary files or programs to make room.
+
+Troubleshoot the update service – Your operating system’s update service might be having issues. Check support resources for guidance on fixing update service problems."
+Software Compatibility Issues,"Check software requirements – Make sure your computer meets the minimum system requirements listed by the software developer.
+
+Identify potential conflicts – Some programs can conflict with others on your system. Check for conflicting software and consider alternative solutions or updates to resolve the issue."
+Data Backup and Restore Issues,"I can guide you through the backup process—whether you want to use an external drive, cloud storage, or another method.
+
+If data was lost, I can help you restore it from your backup, making sure it’s from a safe point before the loss occurred."
+Device Won’t Charge,"Check the charging cable – Inspect it for damage and try a different cable if possible.
+
+Check the charging port – Look for debris or dust. Carefully clean the port with compressed air (avoid using moisture)"
+Remote Access Issues,"Verify configuration settings – Make sure both your computer and the remote device are set up correctly for secure remote access.
+
+Check VPN connections – If you’re using a VPN, troubleshoot the client or server settings to fix connection issues.
+
+Ensure security compliance – Confirm that both devices meet your organization’s security requirements for remote access."
+External Hard Drive Not Detected,"Check connections – Make sure the USB cable is securely connected to both your computer and the hard drive.
+
+Try a different USB port – Some ports provide more power than others; switch ports and see if it’s detected.
+
+Check formatting – Some external drives require specific formats to work with your operating system. Make sure the drive is formatted correctly."
+Scanner Not Working,"Restart the scanner – Sometimes a simple restart fixes temporary glitches.
+
+Update drivers – Make sure your scanner drivers are up-to-date to avoid compatibility issues.
+
+Check connections – Ensure the scanner is properly connected to your computer via USB or network, depending on your model."
+Projector Not Displaying,"Check connections – Make sure the HDMI or VGA cable is securely connected to both your computer and the projector. Try a different cable if needed.
+
+Check projector settings – Ensure the projector is set to the correct input source that matches the cable you’re using.
+
+Check computer display settings – Configure your computer to extend or mirror the display to the projector."
+Slow VPN Connection,"Check your internet speed – A slow connection can affect VPN performance.
+
+Choose a closer server – Connecting to a VPN server near your location can improve speed.
+
+Change the VPN protocol – Different protocols offer varying speed and security. Try switching to find the best balance."
+Software Crashing Unexpectedl,"Check for updates – Make sure the software is updated to the latest version to fix bugs and improve performance.
+
+Verify system requirements – Ensure your computer meets the minimum requirements for the software to run properly."
+Blue Screen of Death (Windows),"Restart your computer – Sometimes a simple restart fixes temporary glitches.
+
+Update Windows – Make sure your system is up-to-date with the latest updates and security patches.
+
+Check for hardware issues – BSODs can sometimes indicate hardware problems. Consider consulting a technician to diagnose any hardware malfunctions."
+Computers Running Hot (Especially Laptops),"Ensure proper ventilation – Keep your laptop on a flat surface and don’t block vents with objects or soft surfaces like beds or pillows.
+
+Clean dust buildup – Dust can trap heat. Carefully clean vents and internal components using compressed air. Consider professional cleaning for thorough dust removal.
+
+Reduce demanding tasks – Close unnecessary programs and avoid running heavy applications or games for long periods."
+Troubleshooting Slow Computer Performance,"Restart your computer – This can fix temporary glitches causing slowness.
+
+Close resource-heavy programs – Identify and shut down unnecessary applications using lots of CPU or memory.
+
+Check for malware – Run a full scan with antivirus software to remove any malicious programs.
+
+Consider hardware upgrades – If your computer is old, upgrading RAM or storage can improve performance."
+Slow or Overloaded Servers,"heck server load – Monitor CPU, memory, and network usage to identify high-demand processes.
+
+Restart services if needed – Restarting specific services can relieve temporary overloads without rebooting the entire server.
+
+Optimize resource usage – Close unnecessary processes or optimize applications consuming excessive resources.
+
+Consider scaling resources – If the server frequently gets overloaded, increasing CPU, memory, or using load balancing can improve performance."
+ Outdated Software or Patches,"Check for updates – Make sure your operating system and all applications are updated to the latest versions.
+
+Install patches promptly – Apply any pending security or performance patches to protect your system.
+
+Enable automatic updates – This ensures your software stays current without manual intervention."
+Network Security Breaches,"Disconnect from the network – Temporarily disconnect affected devices to prevent further unauthorized access.
+
+Reset passwords – Change passwords for critical accounts and network devices. Use strong, unique passwords.
+
+Enable multi-factor authentication (MFA) – Add an extra layer of security to prevent unauthorized access.
+
+Run security scans – Use antivirus and anti-malware tools to check for compromised devices."
+Cloud Syncing Issues,"Check your internet connection – A stable connection is needed for cloud syncing.
+
+Verify login credentials – Make sure you’re signed in to the correct cloud account.
+
+Check storage space – Ensure there’s enough storage available in your cloud account.
+
+Restart the app or device – Sometimes restarting fixes temporary syncing issues.
+
+Update software – Keep your cloud app and operating system up-to-date to avoid compatibility issues."
+Software Licensing and Compliance,"Verify license status – Check that your software license is active and valid.
+
+Ensure proper installation – Make sure the software is installed according to the license terms.
+
+Update software – Some licenses require updates to remain compliant.
+
+Consult IT or licensing team – If you’re unsure about compliance, contact your IT or licensing department for guidance."
+DDoS Attacks,"Limit traffic load – Temporarily disable or restrict non-essential services to reduce network congestion.
+
+Monitor network traffic – Check for unusual spikes or repeated requests from the same IP addresses.
+
+Enable built-in firewalls and security settings – Activate any DDoS protection features in your router, firewall, or cloud service.
+
+Block suspicious IPs – Identify and block IP addresses sending excessive requests.
+
+Restart affected systems – Sometimes a reboot can help mitigate temporary overloads caused by the attack."
+Disk Failures (HDD or SSD),"Backup your data immediately – Copy important files to an external drive or cloud storage to prevent data loss.
+
+Check drive health – Use built-in tools like CHKDSK (Windows) or Disk Utility (Mac) to scan for errors.
+
+Run diagnostic software – Many drives have manufacturer-provided tools to check for bad sectors or performance issues.
+
+Free up space – Low disk space can worsen performance; delete unnecessary files if possible.
+
+Consider replacing the drive – If errors persist or the drive shows signs of failure, prepare to replace it and restore your backup."
+User Permission Issues,"Check your account type – Make sure you are logged in with the correct user account that has the necessary permissions.
+
+Modify permissions – If possible, adjust file or folder permissions to allow access for your account.
+
+Run as administrator – For certain applications, right-click and select “Run as administrator” to gain full access.
+
+Check group or role settings – Ensure your account is part of the correct user group or role for the resource.
+
+Restart the application or system – Sometimes permission changes only take effect after a restart."
+Printer Not Responding,Check the printer is powered on and connected via USB or network.                                                                                                                                                                                                                                                                       Ensure the printer has paper and ink/toner.                                                                                                                                                                                                                                                                                                                              Restart the printer and your computer.                                                                                                                                                                                                                                                                                                                           Update or reinstall printer drivers.                                                                                                                                                                                                                                                                                                                            Check the print queue for stuck jobs and clear if needed.
+Keyboard Not Working,Check the connection (USB/Bluetooth).                                                                                                                                                                                                                                                                                                                                   Restart your computer.                                                                                                                                                                                                                                                                                                                                                 Try a different USB port or pair Bluetooth again.                                                                                                                                                                                                                                                                                                                     Update or reinstall keyboard drivers.                                                                                                                                                                                                                                                                                                                                Test the keyboard on another computer to rule out hardware failure.
+Wi-Fi Dropping Frequently,Restart your router and computer.                                                                                                                                                                                                                                                                                                                                     Check signal strength and move closer if needed.                                                                                                                                                                                                                                                                                                                Forget the network and reconnect.                                                                                                                                                                                                                                                                                                                               Update Wi-Fi drivers.                                                                                                                                                                                                                                                                                                                                                      Check for interference from other devices and switch channels if possible
+Email Not Sending/Receiving,"Check your internet connection.                                                                                                                                                                                                                                                                                                                                        Verify email account settings (server, port, credentials).                                                                                                                                                                                                                                                                                                     Ensure mailbox storage isn’t full.                                                                                                                                                                                                                                                                                                                                    Clear the email client cache or try logging in via webmail.                                                                                                                                                                                                                                                                                              Update your email application to the latest version."
+Slow Internet,Restart your modem/router.                                                                                                                                                                                                                                                                                                                                                         Check if other devices are using excessive bandwidth.                                                                                                                                                                                                                                                                                                                   Run a speed test to verify actual speed.                                                                                                                                                                                                                                                                                                                             Clear browser cache and DNS cache.                                                                                                                                                                                                                                                                                                                             Update network adapter drivers.
+Unexpected Shutdowns,Check for overheating – ensure vents are clear and fans working.                                                                                                                                                                                                                                                                                        Verify power supply and battery health.                                                                                                                                                                                                                                                                                                                          Run system diagnostics for hardware issues.                                                                                                                                                                                                                                                                                                                           Update your operating system and drivers.                                                                                                                                                  Scan for malware that could force shutdowns.
+Browser Crashing,Clear browser cache and cookies.                                                                                                                                                                                                                                                                                                                               Disable browser extensions and test again.                                                                                                                                                                                                                                                                                                                         the browser to the latest version.                                                                                                                                                                                                                                                                                                                                 Restart your computer.                                                                                                                                                                                                                                                                                                                                            Reinstall the browser if the issue persists. 
+Ethernet cable connected but no internet,"Run ipconfig /release and ipconfig /renew, check network adapter status, replace cable, and restart router/switch."
+DNS resolution error,"Flush DNS cache (ipconfig /flushdns), switch to Google DNS (8.8.8.8 / 8.8.4.4), or check domain controller if in enterprise environment."
+Proxy server not responding,"Verify proxy settings in browser/Windows, disable proxy temporarily to test, and confirm proxy server is online."
+Microsoft Teams not loading,"Clear Teams cache (%appdata%\Microsoft\Teams), reinstall the app, or try the web version."
+Zoom microphone not working,"Check Windows sound settings, allow mic access in Privacy settings, update audio drivers, and test in Zoom settings."
+Mailbox full – cannot send/receive emails,"Empty Deleted Items, archive old emails, increase mailbox quota (Exchange/Office365), or configure auto-archiving."
+Emails going to spam,"Check junk folder, whitelist sender domain, and verify spam filter rules."
+Windows update stuck at 0% or 100%,"Restart Windows Update service, clear SoftwareDistribution folder, and retry update."
+Device driver failed after update,"Roll back driver in Device Manager, download latest version from manufacturer’s site, or reinstall driver package."
+Time not syncing with domain,"Run w32tm /resync, verify NTP server settings, and check domain controller time configuration."
+BitLocker recovery key required at boot,"Retrieve key from Microsoft/AD account, ensure TPM is enabled in BIOS, and check for recent hardware changes that triggered BitLocker."
+Smart card login not working,"Verify smart card reader driver, confirm certificate validity, and test with another smart card."
+User cannot authenticate to domain,"Verify user account is active and not locked. Check Kerberos clock skew (time sync with DC), DNS resolution, and domain trust status."
+Group Policy not applying,"Run gpresult /r to check applied policies. Ensure GPO is linked to correct OU, permissions are correct, and replication is working between domain controllers."
+High CPU usage on a production server,"Identify top processes in Task Manager/Resource Monitor. Check for runaway services (e.g., SQL, IIS, antivirus). Patch software, optimize queries, or scale resources if usage is expected."
+"Critical service not starting (e.g., SQL Server, DHCP, Exchange)","Check Windows Event Viewer for error codes, verify service dependencies, confirm ports aren’t blocked by firewall, and test service account credentials."
+File server shares not accessible,"Check if the server is online and reachable (ping). Verify SMB service is running, confirm NTFS/share permissions, and ensure firewall isn’t blocking SMB ports (445)."
+Account compromised (suspicious login activity),"Force password reset, revoke sessions, enable MFA, and review security logs. Run endpoint scans and check mail forwarding rules for malicious changes."
+Certificate expired on production server,"Generate or request a new SSL/TLS certificate, bind it to the service (IIS, Apache, Nginx), and test connectivity. Ensure monitoring is set for future expiry alerts."
+Network outage on a specific VLAN,"Verify switch configuration, check trunking and VLAN tagging, ensure spanning-tree protocol hasn’t blocked the port, and confirm DHCP scope availability."
+Firewall blocking business application,"Identify required ports/protocols, check firewall rules, temporarily disable rule to test, then apply least privilege policy for required traffic."
+DNS server not resolving queries,"Check if DNS service is running, flush DNS cache, verify forwarders, and ensure root hints are configured correctly."
+VM won’t start in Hyper-V/VMware,"Check for insufficient host resources (CPU/RAM), review event logs, confirm datastore availability, and repair corrupted VM configuration files if needed."
+Azure AD sync not working,"Run Start-ADSyncSyncCycle -PolicyType Delta in PowerShell. Check Azure AD Connect health, verify credentials, and confirm sync rules."
+Cloud storage access denied,"Verify IAM/role permissions, check conditional access policies, and confirm account has not been blocked by security policy."
+Account locked due to repeated failed logins (brute-force attempt suspected),"Unlock account in ADUC, enforce password reset, review security logs for suspicious IPs, and enable account lockout policy thresholds with monitoring."
+Service account password expired,"Reset service account password in AD, update credentials in dependent services (IIS, SQL, scheduled tasks), and convert to managed service accounts if possible"
+Orphaned accounts found in Active Directory,"Run AD reports to identify inactive accounts. Disable accounts unused for 90+ days, then remove after verification with HR/management."
+Privilege escalation via misconfigured group membership,"Audit group memberships (Domain Admins, Enterprise Admins), remove unnecessary accounts, and enforce least-privilege principle."
+User cannot change password (greyed out option),Check ADUC for “User cannot change password” flag. Ensure password change policy applies to the correct OU and check for fine-grained password policies.
+Patch failed to install repeatedly,"Clear SoftwareDistribution and Catroot2 folders, restart Windows Update service, and retry. If still failing, manually install via Microsoft Update Catalog."
+Patch causes application incompatibility,"Roll back update, test patch in staging environment, apply vendor compatibility fix, and deploy via WSUS/SCCM after validation."
+Missing critical security patches across multiple servers,"Run vulnerability scan, cross-check with WSUS/SCCM reports, prioritize CVSS scoring, and schedule immediate patch deployment on critical systems."
+Cumulative update stuck in pending restart state,"Check pending.xml in C:\Windows\WinSxS, delete if corrupted, restart Windows Update services, and apply update again."
+Patch rollback after reboot,"Check Event Viewer for failure codes, run DISM /Online /Cleanup-Image /RestoreHealth, and reapply patch. Escalate to Microsoft support if persistent."
+Zero-day patch deployment required,"Identify affected systems, apply emergency patch from vendor immediately (out-of-band), enforce reboots, and monitor logs for exploitation attempts."
+SAML authentication failure for SaaS application,"Verify federation metadata, check certificate validity, confirm correct entity IDs and ACS URLs, and sync clocks between IdP and SP."
+AWS IAM user locked out due to MFA misconfiguration,Use root account or another IAM admin to disable/reset MFA. Reconfigure MFA for the locked user and review IAM policies for redundancy.
+Azure AD Conditional Access blocking compliant device,"Ensure device is properly enrolled in Intune, compliance policies are met, and device record is synced. Re-sync from Company Portal app"
+Outlook OST file corruption,"Close Outlook, delete/recreate OST file, allow re-sync from Exchange/Office365. Use ScanOST or ScanPST tools if needed."
+Exchange mailbox database dismounted,"Check disk space, run eseutil /mh to inspect database status, mount database in Exchange Admin Center, and restore from backup if corrupted."
+VM snapshot chain corrupted,"Consolidate snapshots, delete unused ones, and restore from last consistent backup if corruption persists."
+Docker container won’t start due to port binding,Run docker ps -a to check conflicting ports. Stop/remove containers blocking the port or remap ports with -p host:container.
+Kubernetes pod stuck in CrashLoopBackOff,"Run kubectl logs <pod> to review errors, check resource limits, and validate container image health. Adjust readiness/liveness probes if misconfigured."
+Kerberos authentication failing intermittently,"Ensure time synchronization between domain members, verify SPN registrations (setspn -L), and check duplicate service accounts."
+DHCP scope exhausted,"Extend the DHCP scope, reduce lease time, or add an additional scope. Identify “rogue devices” consuming excessive addresses."
+Duplicate SID issue after system cloning,"Run Sysprep on cloned machines to generate unique SIDs. For existing systems, use sysprep /generalize or Microsoft’s SID reset tools."
+Corrupted Windows profile,"Log in with admin account, rename corrupted profile under C:\Users, update registry at HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList, and force recreation of profile."
+Database transaction log full (SQL Server / Oracle),"Back up transaction logs, shrink log file if required, and increase disk space. Long-term fix: adjust log backup frequency and check runaway transactions"
+RAID array degraded,"Identify failed disk via RAID controller, replace with same model/size, rebuild array, and confirm data integrity. Ensure backups before proceeding."
+Linux server stuck in emergency mode at boot,"Boot into recovery mode, check /etc/fstab for invalid disk entries, run fsck on affected partitions, and correct mount configurations."
+Windows kernel power error,"Indicates improper shutdown or hardware instability. Check PSU, update BIOS/firmware, run memory diagnostics, and review system logs for driver crashes."

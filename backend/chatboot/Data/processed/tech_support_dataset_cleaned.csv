@@ -1,0 +1,25 @@
+Customer_Issue,Tech_Response,Issue_Category,Issue_Status
+Unable to access email,Follow the software installation guide.,Performance,Resolved after follow-up
+Unable to access email,Run a system diagnostic tool.,Hardware,Resolved after follow-up
+Blue screen error,Reset your password using the link provided.,Network,Resolved
+Blue screen error,Restart your router.,Software,Resolved after follow-up
+Slow system performance,Restart your router.,Hardware,Resolved
+Forgot password,Reinstall the printer drivers.,Network,Resolved after follow-up
+Printer not responding,Restart your router.,Account,Resolved after follow-up
+Unable to access email,Verify your email settings.,Software,Resolved after follow-up
+Printer not responding,Run a system diagnostic tool.,Account,Resolved after follow-up
+Slow system performance,Run a system diagnostic tool.,Performance,Resolved
+Forgot password,Restart your router.,Software,Resolved after follow-up
+Unable to access email,Clear cache and remove unnecessary programs.,Software,Resolved after follow-up
+Software installation failure,Restart your router.,Hardware,Resolved after follow-up
+Slow system performance,Reinstall the printer drivers.,Hardware,Resolved
+Blue screen error,Reinstall the printer drivers.,Hardware,Resolved
+Forgot password,Follow the software installation guide.,Software,Resolved
+Cannot connect to Wi-Fi,Follow the software installation guide.,Performance,Resolved
+Blue screen error,Verify your email settings.,Network,Resolved after follow-up
+Unable to access email,Restart your router.,Network,Resolved after follow-up
+Printer not responding,Clear cache and remove unnecessary programs.,Account,Resolved after follow-up
+Slow system performance,Follow the software installation guide.,Performance,Resolved after follow-up
+Printer not responding,Follow the software installation guide.,Hardware,Resolved
+Cannot connect to Wi-Fi,Run a system diagnostic tool.,Performance,Resolved
+Unable to access email,Reset your password using the link provided.,Network,Resolved
