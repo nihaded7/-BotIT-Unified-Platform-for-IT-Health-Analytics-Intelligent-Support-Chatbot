@@ -1,5 +1,5 @@
-# generate_readme.py
-readme = """# BotIT 🚀
+
+# BotIT 🚀
 Unified Platform for IT Health Analytics & Intelligent Support Chatbot
 
 ## 📌 Description
