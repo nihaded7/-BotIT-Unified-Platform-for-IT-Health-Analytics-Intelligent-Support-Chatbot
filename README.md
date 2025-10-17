@@ -1,4 +1,4 @@
-
+ 
 # BotIT 🚀
 Unified Platform for IT Health Analytics & Intelligent Support Chatbot
 
@@ -7,7 +7,7 @@ BotIT is a comprehensive full-stack application developed during my final-year i
 
 ---
 
-🎯 Objectives
+# 🎯 Objectives
 - Develop a dual-functionality platform for IT infrastructure monitoring and user support
 
 - Transform raw IT data into actionable insights through automated analysis and visualization
