@@ -211,13 +211,13 @@ chatbot_app: Intelligent support with RAG architecture
 ---
 
 # 👥 Contributors
-**Developer**: EL ALAMI Nihad
-**Company Supervisors**: Mr. Mohamed Ali BNABDELJALIL, Mr. Rida GHAAMER
+- **Developer**: EL ALAMI Nihad
+- **Company Supervisors**: Mr. Mohamed Ali BNABDELJALIL, Mr. Rida GHAAMER
 
-**Institution**: École Nationale des Sciences Appliquées de Tétouan
-**Major**: Big Data and Artificial Intelligence
-**Academic Year**: 2024 – 2025
-**Host Organization**: Lear Corporation Tangier
+- **Institution**: École Nationale des Sciences Appliquées de Tétouan
+- **Major**: Big Data and Artificial Intelligence
+- **Academic Year**: 2024 – 2025
+- **Host Organization**: Lear Corporation Tangier
 
 ---
 
