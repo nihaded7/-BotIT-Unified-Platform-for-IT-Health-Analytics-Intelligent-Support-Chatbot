@@ -2,7 +2,7 @@
 # BotIT 🚀
 Unified Platform for IT Health Analytics & Intelligent Support Chatbot
 
-##📖 Project Overview
+# 📖 Project Overview
 BotIT is a comprehensive full-stack application developed during my final-year internship at Lear Corporation Tangier. This unified platform combines IT infrastructure health analytics with an intelligent support chatbot to enhance IT service management in industrial environments. The system transforms raw performance and security data into actionable insights while providing real-time troubleshooting assistance through conversational AI.
 
 ---
